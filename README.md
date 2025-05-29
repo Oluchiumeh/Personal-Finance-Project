@@ -110,6 +110,3 @@ Created interactive and accessible dashboards suitable for non-technical stakeho
 Improved data storytelling through visuals, summaries, and insights
 
 Reinforced my understanding of self-service BI using Excel
-
-### Live Demo / File Access
-📁 Download the Excel File Here (replace this with actual GitHub file link)
