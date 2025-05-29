@@ -1,5 +1,4 @@
 # Personal-Finance-Project
-![Bank-Churner-Dashboard](https://github.com/Oluchiumeh/Bank-Churn/blob/main/Bank%20churn%20analysis%20dashboard.png)
 ## Project Overview
 This Personal Finance Tracker is a comprehensive Excel-based dashboard designed to help users monitor and manage their income, expenses, and savings efficiently. Built using Power Pivot, Power Query, and interactive slicers, this project simulates a real-world scenario where multiple financial data sources are integrated, modeled, and visualized to provide actionable insights.
 This is not just an Excel sheet—it's a dynamic financial management tool.
@@ -62,7 +61,7 @@ Created a star schema model to enable efficient querying and filtering
 
 Linked slicers like Category Type, Date, and Category Name to drive the dashboard's interactivity
 
-![See screenshot of the data model above]_(https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Data%20model.png)
+![PFT Data model](https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Data%20model.png)
 
 ### Dashboard Creation
 I created two key sheets:
@@ -80,6 +79,7 @@ Trend lines showing monthly income, expenses, and savings
 
 Slicers for category type, date range, and category names
 
+![PFT Dashboard](https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Dashboard.png)
 - Details Sheet
 Deep dive into sources of income, vendors, and institutions
 
@@ -89,7 +89,7 @@ Additional pie and bar charts for clarity
 
 Fully interactive for deeper storytelling
 
-📸 [See screenshots of Dashboard and Details sheets above]
+![PFT Details](https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Details.png)
 
 ### Insights Discovered
 My savings rate is 83%, which indicates strong financial discipline
