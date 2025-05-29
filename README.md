@@ -62,7 +62,7 @@ Created a star schema model to enable efficient querying and filtering
 
 Linked slicers like Category Type, Date, and Category Name to drive the dashboard's interactivity
 
-![See screenshot of the data model above].(https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Data%20model.png)
+![See screenshot of the data model above]_(https://github.com/Oluchiumeh/Personal-Finance-Project/blob/main/PFT%20Data%20model.png)
 
 ### Dashboard Creation
 I created two key sheets:
