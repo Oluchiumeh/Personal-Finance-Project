@@ -1,4 +1,4 @@
-# Personal-Finance-Project
+# Personal Finance Tracker
 ## Project Overview
 This Personal Finance Tracker is a comprehensive Excel-based dashboard designed to help users monitor and manage their income, expenses, and savings efficiently. Built using Power Pivot, Power Query, and interactive slicers, this project simulates a real-world scenario where multiple financial data sources are integrated, modeled, and visualized to provide actionable insights.
 This is not just an Excel sheet—it's a dynamic financial management tool.
